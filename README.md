@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @woodlords
+- 👋 Hi, I’m Hyder @woodlords
 - 👀 I’m interested in NFTs on Cardano 
 - 🌱 I’m currently learning Cardano CLI 
 - 💞️ I’m looking to collaborate on NFT projects
